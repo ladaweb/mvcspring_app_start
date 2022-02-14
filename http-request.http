@@ -1,4 +1,4 @@
 ###
-GET http://localhost:8080/SpringMVCApp1_war_exploded/exit
+GET http://localhost:8080/first/hello
 
 ###
